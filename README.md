@@ -1,4 +1,4 @@
 # Olá!
-Sou Trighy, conheçido pessoalmente como Gabriel F.
+Sou Gabriel F.
 
 Estou atualmente estudando no IFSC no ADS!
